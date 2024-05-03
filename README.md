@@ -1,1 +1,1 @@
-# React18-Redux-TypeScript-CRUD
+# React18-Redux-TypeScript-Tutorial
